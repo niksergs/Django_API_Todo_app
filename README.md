@@ -7,7 +7,7 @@
 Run the following commands to bootstrap your environment:
     
     pip install virtualenv
-    git clone ...
+    git clone https://github.com/niksergs/Django_API_Todo_app
     cd todo_app
 
     python -m venv venv
